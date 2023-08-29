@@ -1,0 +1,3 @@
+send /l 12345a
+wait 20
+send /joinq polit1
